@@ -22,3 +22,6 @@ docker rm idcontenedor
 
 # Eliminamos la imagen
 docker rmi idimagen
+
+# Eliminamos la imagen forzando
+docker rmi --force idimagen
