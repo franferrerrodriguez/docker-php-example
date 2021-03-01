@@ -1,5 +1,5 @@
 
-# Creamos una imagen (Ejecitamos desde el directorio de nuestro docker)
+# Creamos una imagen (Ejecutamos desde el directorio de nuestro docker)
 docker build -t my-php-app .
 
 # Listamos las imagenes actuales
